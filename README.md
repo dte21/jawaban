@@ -1,9 +1,9 @@
 # jawaban
 file 1 & 2 
 
--dibuat menggunakan bahassa pemrograman python (menggunakan online-python)
+-dibuat menggunakan bahasa pemrograman python (menggunakan online-python)
 
--semua variabel sudah dimasukkan sebagai konstanta (program dapat langsung di run)
+-semua variabel sudah dimasukkan sebagai konstanta (untuk melihat hasilnya program dapat langsung di jalankan)
 
 file 4
 
